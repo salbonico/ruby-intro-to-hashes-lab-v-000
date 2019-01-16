@@ -1,6 +1,6 @@
 def new_hash
 hash = {}
-return hash
+return hash 
 end
 
 def actor
@@ -10,7 +10,9 @@ actor = {
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+		railroads:{}
+	}
 
 end
 
